@@ -1,0 +1,20 @@
+G:\TH\HealthTracker\HealthTracker\bin\Debug\HealthTracker.exe.config
+G:\TH\HealthTracker\HealthTracker\bin\Debug\HealthTracker.exe
+G:\TH\HealthTracker\HealthTracker\bin\Debug\HealthTracker.pdb
+G:\TH\HealthTracker\HealthTracker\obj\Debug\HealthTracker.csprojAssemblyReference.cache
+G:\TH\HealthTracker\HealthTracker\obj\Debug\HealthTracker.Form1.resources
+G:\TH\HealthTracker\HealthTracker\obj\Debug\HealthTracker.Properties.Resources.resources
+G:\TH\HealthTracker\HealthTracker\obj\Debug\HealthTracker.csproj.GenerateResource.cache
+G:\TH\HealthTracker\HealthTracker\obj\Debug\HealthTracker.csproj.CoreCompileInputs.cache
+G:\TH\HealthTracker\HealthTracker\obj\Debug\HealthTracker.exe
+G:\TH\HealthTracker\HealthTracker\obj\Debug\HealthTracker.pdb
+G:\Bmi Project so far\HealthTracker\HealthTracker\bin\Debug\HealthTracker.exe.config
+G:\Bmi Project so far\HealthTracker\HealthTracker\bin\Debug\HealthTracker.exe
+G:\Bmi Project so far\HealthTracker\HealthTracker\bin\Debug\HealthTracker.pdb
+G:\Bmi Project so far\HealthTracker\HealthTracker\obj\Debug\HealthTracker.csprojAssemblyReference.cache
+G:\Bmi Project so far\HealthTracker\HealthTracker\obj\Debug\HealthTracker.Form1.resources
+G:\Bmi Project so far\HealthTracker\HealthTracker\obj\Debug\HealthTracker.Properties.Resources.resources
+G:\Bmi Project so far\HealthTracker\HealthTracker\obj\Debug\HealthTracker.csproj.GenerateResource.cache
+G:\Bmi Project so far\HealthTracker\HealthTracker\obj\Debug\HealthTracker.csproj.CoreCompileInputs.cache
+G:\Bmi Project so far\HealthTracker\HealthTracker\obj\Debug\HealthTracker.exe
+G:\Bmi Project so far\HealthTracker\HealthTracker\obj\Debug\HealthTracker.pdb
